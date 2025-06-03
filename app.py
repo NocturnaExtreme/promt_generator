@@ -1,3 +1,9 @@
+import os
+import sys
+
+# Гарантируем, что корень проекта (где есть /src) в путях поиска модулей
+sys.path.append(os.getcwd())
+
 import re
 import requests
 import gradio as gr
