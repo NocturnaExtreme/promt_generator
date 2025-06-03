@@ -28,7 +28,7 @@ Thank you for your interest in contributing to Magic Prompt Generator! This docu
 1. **Fork the repository**
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/yourusername/magic-prompt-generator.git
+   git clone https://github.com/NocturnaExtreme/promt_generator.git
    cd magic-prompt-generator
    ```
 3. **Create a virtual environment**:
