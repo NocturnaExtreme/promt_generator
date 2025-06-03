@@ -13,9 +13,9 @@ import time
 import base64
 from io import BytesIO
 from PIL import Image
-from typing import List, Dict, Any, Optional, Tuple # Added Tuple for type hinting
+from typing import List, Dict, Any, Optional, Tuple  # Added Tuple for type hinting
 from transformers import AutoTokenizer, AutoModelForCausalLM
-from g4f.client import Client # As per user's reverted code
+from g4f.client import Client  # As per user's reverted code
 
 # --- Constants and Configuration ---
 MODEL_NAME = "Gustavosta/MagicPrompt-Stable-Diffusion"
