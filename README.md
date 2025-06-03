@@ -31,7 +31,7 @@ A powerful AI-powered tool for generating enhanced prompts for various image gen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/magic-prompt-generator.git
+git clone https://github.com/NocturnaExtreme/magic-prompt-generator.git
 cd magic-prompt-generator
 ```
 
